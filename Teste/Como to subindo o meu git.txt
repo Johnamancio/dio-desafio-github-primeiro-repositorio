@@ -1,0 +1,14 @@
+#Subindo os meus repositórios para o Github#
+
+
+**Comandos**
+
+Git init para inciar o Git
+
+Git clone - clonando o meu repositório no Github
+
+Git status - para ver qual são as coisas que estão na pasta. 
+
+Se não estiver, coloca o git add * para colocar todas as coisas que não estão adicionadas. 
+
+Caso tenha mudado algo tem que dar o git commit 
